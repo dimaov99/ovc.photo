@@ -1,0 +1,220 @@
+Uri: https://zsh21uruuoil.wfolio.pro/
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\index.htm
+Content Type: text/html
+
+Uri: https://zsh21uruuoil.wfolio.pro/assets/app/custom-icons-4df3d3d62698d7664d10dee86cd3954461091986c3c5d80b580a2c3a2292846e.woff
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\assets\app\custom-icons-4df3d3d62698d7664d10dee86cd3954461091986c3c5d80b580a2c3a2292846e.woff
+Content Type: font/woff
+
+Uri: https://zsh21uruuoil.wfolio.pro/assets/favicons/favicon-86353aea3a658478b3bb187ebdd84685bfdc94e9e53b13b2174e2ac353435999.svg
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\assets\favicons\favicon-86353aea3a658478b3bb187ebdd84685bfdc94e9e53b13b2174e2ac353435999.svg
+Content Type: image/svg+xml
+
+Uri: https://zsh21uruuoil.wfolio.pro/assets/favicons/favicon_180-5f42af1e996654bc5469ea489493aa3da11e8c833fa2b1169e81ba18bc6c79af.png
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\assets\favicons\favicon_180-5f42af1e996654bc5469ea489493aa3da11e8c833fa2b1169e81ba18bc6c79af.png
+Content Type: image/png
+
+Uri: https://zsh21uruuoil.wfolio.pro/assets/flags/square/am-f4ede0e92ae8d00c458e5a658c31de77aa1c4bc7fe54c3c8f9cd379bddd38ea0.svg
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\assets\flags\square\am-f4ede0e92ae8d00c458e5a658c31de77aa1c4bc7fe54c3c8f9cd379bddd38ea0.svg
+Content Type: image/svg+xml
+
+Uri: https://zsh21uruuoil.wfolio.pro/assets/flags/square/az-3e0f710119f24c592ee009b1ce5ebd30dfbce0eb86fed7a2faa9bd96930d43ea.svg
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\assets\flags\square\az-3e0f710119f24c592ee009b1ce5ebd30dfbce0eb86fed7a2faa9bd96930d43ea.svg
+Content Type: image/svg+xml
+
+Uri: https://zsh21uruuoil.wfolio.pro/assets/flags/square/by-7bd37ee878e4225470de8cc284d66cf70785a0329da88b43e5f93e25c047b738.svg
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\assets\flags\square\by-7bd37ee878e4225470de8cc284d66cf70785a0329da88b43e5f93e25c047b738.svg
+Content Type: image/svg+xml
+
+Uri: https://zsh21uruuoil.wfolio.pro/assets/flags/square/cn-548f302d58bdad7c3a157b07123df5b3941c6511e0bb840b0a4fa081e61c0379.svg
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\assets\flags\square\cn-548f302d58bdad7c3a157b07123df5b3941c6511e0bb840b0a4fa081e61c0379.svg
+Content Type: image/svg+xml
+
+Uri: https://zsh21uruuoil.wfolio.pro/assets/flags/square/cz-311b1d73fa50e42a08844cd364f68bcee551a309b26bac1dce1651135ae70aa9.svg
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\assets\flags\square\cz-311b1d73fa50e42a08844cd364f68bcee551a309b26bac1dce1651135ae70aa9.svg
+Content Type: image/svg+xml
+
+Uri: https://zsh21uruuoil.wfolio.pro/assets/flags/square/de-3479e75f866450220db28ef3ebb1ba0c345c059ed67de62c4176a09572da8f32.svg
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\assets\flags\square\de-3479e75f866450220db28ef3ebb1ba0c345c059ed67de62c4176a09572da8f32.svg
+Content Type: image/svg+xml
+
+Uri: https://zsh21uruuoil.wfolio.pro/assets/flags/square/ee-1058c4a95d48696c8c99608a104e756d4ac5c431a7a1f60e179769416c443420.svg
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\assets\flags\square\ee-1058c4a95d48696c8c99608a104e756d4ac5c431a7a1f60e179769416c443420.svg
+Content Type: image/svg+xml
+
+Uri: https://zsh21uruuoil.wfolio.pro/assets/flags/square/es-582d90241cc77269d8eeaa709ee9345c4e3935b7c20f9d3f04d707800c554896.svg
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\assets\flags\square\es-582d90241cc77269d8eeaa709ee9345c4e3935b7c20f9d3f04d707800c554896.svg
+Content Type: image/svg+xml
+
+Uri: https://zsh21uruuoil.wfolio.pro/assets/flags/square/fi-cdfc9cc3908d4f0d534fb34853fda8db5981195204ab6219bad3aa3cf90ecfa6.svg
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\assets\flags\square\fi-cdfc9cc3908d4f0d534fb34853fda8db5981195204ab6219bad3aa3cf90ecfa6.svg
+Content Type: image/svg+xml
+
+Uri: https://zsh21uruuoil.wfolio.pro/assets/flags/square/fr-8b9d16b144204ecd34289bf1f0e06e57ad03a889a3813463de8e1a25005da5ec.svg
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\assets\flags\square\fr-8b9d16b144204ecd34289bf1f0e06e57ad03a889a3813463de8e1a25005da5ec.svg
+Content Type: image/svg+xml
+
+Uri: https://zsh21uruuoil.wfolio.pro/assets/flags/square/gb-81ec47f82b87b9398d17f1db841ea31695a24fa3e05c60fa4d59b21ae4d5bed2.svg
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\assets\flags\square\gb-81ec47f82b87b9398d17f1db841ea31695a24fa3e05c60fa4d59b21ae4d5bed2.svg
+Content Type: image/svg+xml
+
+Uri: https://zsh21uruuoil.wfolio.pro/assets/flags/square/ge-d90251ffc959309587136e12331f57a2db6b284a892ba1fee03927383208a760.svg
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\assets\flags\square\ge-d90251ffc959309587136e12331f57a2db6b284a892ba1fee03927383208a760.svg
+Content Type: image/svg+xml
+
+Uri: https://zsh21uruuoil.wfolio.pro/assets/flags/square/gr-40c78a60595b2a3f485040d93505c0128de81b60f44e18e35ce0ca9d5a95f184.svg
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\assets\flags\square\gr-40c78a60595b2a3f485040d93505c0128de81b60f44e18e35ce0ca9d5a95f184.svg
+Content Type: image/svg+xml
+
+Uri: https://zsh21uruuoil.wfolio.pro/assets/flags/square/il-e9027cd798ec317a3cb65af70716a49e6b2963e9c30fd9c82ad6f5c7054d1cd2.svg
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\assets\flags\square\il-e9027cd798ec317a3cb65af70716a49e6b2963e9c30fd9c82ad6f5c7054d1cd2.svg
+Content Type: image/svg+xml
+
+Uri: https://zsh21uruuoil.wfolio.pro/assets/flags/square/it-2767e5c7250ec17539972ef710a8cebde73971bf0b9b3186d5baffb02f66974e.svg
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\assets\flags\square\it-2767e5c7250ec17539972ef710a8cebde73971bf0b9b3186d5baffb02f66974e.svg
+Content Type: image/svg+xml
+
+Uri: https://zsh21uruuoil.wfolio.pro/assets/flags/square/kz-7bba4215225df2db60ba39f8b42f9c96039859ac70242cc3dc725cfa1a4b1330.svg
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\assets\flags\square\kz-7bba4215225df2db60ba39f8b42f9c96039859ac70242cc3dc725cfa1a4b1330.svg
+Content Type: image/svg+xml
+
+Uri: https://zsh21uruuoil.wfolio.pro/assets/flags/square/lt-e386ebe0482bdf999b151c3ae8c5e5e40a58037eab35b29f37682aa849edd3f0.svg
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\assets\flags\square\lt-e386ebe0482bdf999b151c3ae8c5e5e40a58037eab35b29f37682aa849edd3f0.svg
+Content Type: image/svg+xml
+
+Uri: https://zsh21uruuoil.wfolio.pro/assets/flags/square/lv-dbf5d3fb294b518bc6373c4fc22b028fc462647fbd5032cf57513556896577bc.svg
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\assets\flags\square\lv-dbf5d3fb294b518bc6373c4fc22b028fc462647fbd5032cf57513556896577bc.svg
+Content Type: image/svg+xml
+
+Uri: https://zsh21uruuoil.wfolio.pro/assets/flags/square/nl-6bfba1aa0f31f33e126e51832eddba06a92106d569f3e01dc4989a3425f45eac.svg
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\assets\flags\square\nl-6bfba1aa0f31f33e126e51832eddba06a92106d569f3e01dc4989a3425f45eac.svg
+Content Type: image/svg+xml
+
+Uri: https://zsh21uruuoil.wfolio.pro/assets/flags/square/no-7b3a522b5101f7bcc5c9ac05adbfbfa3dacde4fc4420d2997b1ab38af7e50dbc.svg
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\assets\flags\square\no-7b3a522b5101f7bcc5c9ac05adbfbfa3dacde4fc4420d2997b1ab38af7e50dbc.svg
+Content Type: image/svg+xml
+
+Uri: https://zsh21uruuoil.wfolio.pro/assets/flags/square/pl-acc73e013a67a13fde68d812b22889be9150cce57d029deab6ba5b0ba4e7b69a.svg
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\assets\flags\square\pl-acc73e013a67a13fde68d812b22889be9150cce57d029deab6ba5b0ba4e7b69a.svg
+Content Type: image/svg+xml
+
+Uri: https://zsh21uruuoil.wfolio.pro/assets/flags/square/pt-09b4548e5764d2a6c56bf9c33e8652911f91b16ab6bfa3041630506480281047.svg
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\assets\flags\square\pt-09b4548e5764d2a6c56bf9c33e8652911f91b16ab6bfa3041630506480281047.svg
+Content Type: image/svg+xml
+
+Uri: https://zsh21uruuoil.wfolio.pro/assets/flags/square/ro-a4cfc4bce72dc7b034f2b84e932ba3d47f7a9404b94b1450af48263c576b62c8.svg
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\assets\flags\square\ro-a4cfc4bce72dc7b034f2b84e932ba3d47f7a9404b94b1450af48263c576b62c8.svg
+Content Type: image/svg+xml
+
+Uri: https://zsh21uruuoil.wfolio.pro/assets/flags/square/rs-cd44c0b89c5e2c2d0afe1902a263d60648dd18e97636256eb1ffc3148e336cd7.svg
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\assets\flags\square\rs-cd44c0b89c5e2c2d0afe1902a263d60648dd18e97636256eb1ffc3148e336cd7.svg
+Content Type: image/svg+xml
+
+Uri: https://zsh21uruuoil.wfolio.pro/assets/flags/square/ru-aa0d5e4855f92f211efad3979493956dfe01ad4a0b552814cad05fa67694de03.svg
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\assets\flags\square\ru-aa0d5e4855f92f211efad3979493956dfe01ad4a0b552814cad05fa67694de03.svg
+Content Type: image/svg+xml
+
+Uri: https://zsh21uruuoil.wfolio.pro/assets/flags/square/si-57de6654f35b93e7df9736ccb70ced05dcdf69562fe18d8ca4b9b0b193044567.svg
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\assets\flags\square\si-57de6654f35b93e7df9736ccb70ced05dcdf69562fe18d8ca4b9b0b193044567.svg
+Content Type: image/svg+xml
+
+Uri: https://zsh21uruuoil.wfolio.pro/assets/flags/square/tr-0df7b630a61ad40f32017487e6fef02258e8b2c8709c6fc8c1d3de1e9b36b09c.svg
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\assets\flags\square\tr-0df7b630a61ad40f32017487e6fef02258e8b2c8709c6fc8c1d3de1e9b36b09c.svg
+Content Type: image/svg+xml
+
+Uri: https://zsh21uruuoil.wfolio.pro/assets/flags/square/ua-86260ecf3aa1da110f92b58861d7918e3e574a79cfb4334f9c82b1a750a8a875.svg
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\assets\flags\square\ua-86260ecf3aa1da110f92b58861d7918e3e574a79cfb4334f9c82b1a750a8a875.svg
+Content Type: image/svg+xml
+
+Uri: https://zsh21uruuoil.wfolio.pro/assets/folio/desktop/themes/space-ff0d3b69800feeaf74687bdbac01a77efe8abd4f3598e80e45e9960bee2beddf.js
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\assets\folio\desktop\themes\space-ff0d3b69800feeaf74687bdbac01a77efe8abd4f3598e80e45e9960bee2beddf.js
+Content Type: application/javascript
+
+Uri: https://zsh21uruuoil.wfolio.pro/assets/folio/desktop/vendor/space-de7183de9ff120fb91015afa915df94b4ad28277ecc200aab96291b0b5cc0f57.css
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\assets\folio\desktop\vendor\space-de7183de9ff120fb91015afa915df94b4ad28277ecc200aab96291b0b5cc0f57.css
+Content Type: text/css
+
+Uri: https://zsh21uruuoil.wfolio.pro/assets/folio/fonts/forum-23012192129ce56788523e079aa4e21880c7ca292d825586e7a404344034dcd4.css
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\assets\folio\fonts\forum-23012192129ce56788523e079aa4e21880c7ca292d825586e7a404344034dcd4.css
+Content Type: text/css
+
+Uri: https://zsh21uruuoil.wfolio.pro/assets/folio/fonts/roboto-e168214a8853b4e770861feb30e48db26afb3ddd80a3897f877517d66d091574.css
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\assets\folio\fonts\roboto-e168214a8853b4e770861feb30e48db26afb3ddd80a3897f877517d66d091574.css
+Content Type: text/css
+
+Uri: https://zsh21uruuoil.wfolio.pro/assets/font-awesome/fa-brands-400-1c53a9393ceac89f0898f8de0f6d63e4633864aa5da8b20bcb05cbda37dfa2c5.woff2
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\assets\font-awesome\fa-brands-400-1c53a9393ceac89f0898f8de0f6d63e4633864aa5da8b20bcb05cbda37dfa2c5.woff2
+Content Type: font/woff2
+
+Uri: https://zsh21uruuoil.wfolio.pro/assets/font-awesome/fa-brands-400-5016c186f579bd8058747f361e0efff96a49bfee65406b383dd0bcd7f444a5d8.ttf
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\assets\font-awesome\fa-brands-400-5016c186f579bd8058747f361e0efff96a49bfee65406b383dd0bcd7f444a5d8.ttf
+Content Type: application/octet-stream
+
+Uri: https://zsh21uruuoil.wfolio.pro/assets/font-awesome/fa-light-300-629842d840cece560b139b9cc06e2ebb2c92279670383fe8ebbea2b466500eda.ttf
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\assets\font-awesome\fa-light-300-629842d840cece560b139b9cc06e2ebb2c92279670383fe8ebbea2b466500eda.ttf
+Content Type: application/octet-stream
+
+Uri: https://zsh21uruuoil.wfolio.pro/assets/font-awesome/fa-light-300-e773295f27b81341e6948427170f7e29e2efac0aa00f9288185dc22da580ee56.woff2
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\assets\font-awesome\fa-light-300-e773295f27b81341e6948427170f7e29e2efac0aa00f9288185dc22da580ee56.woff2
+Content Type: font/woff2
+
+Uri: https://zsh21uruuoil.wfolio.pro/assets/font-awesome/fa-solid-900-9980baf58c671d191663b98fd1f8b3558c021fd3ca8bc831cee1b1b132b39d8d.woff2
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\assets\font-awesome\fa-solid-900-9980baf58c671d191663b98fd1f8b3558c021fd3ca8bc831cee1b1b132b39d8d.woff2
+Content Type: font/woff2
+
+Uri: https://zsh21uruuoil.wfolio.pro/assets/font-awesome/fa-solid-900-f0938550911d9b7551e0fd8117b4497af28d5de97e7675e55b63f703814fb7ec.ttf
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\assets\font-awesome\fa-solid-900-f0938550911d9b7551e0fd8117b4497af28d5de97e7675e55b63f703814fb7ec.ttf
+Content Type: application/octet-stream
+
+Uri: https://zsh21uruuoil.wfolio.pro/assets/icons/arrow_left_white-cf28a26311868dd4643253ea36f74a09da8a70eaaff77d7d1257fe4e58ac0d7b.png
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\assets\icons\arrow_left_white-cf28a26311868dd4643253ea36f74a09da8a70eaaff77d7d1257fe4e58ac0d7b.png
+Content Type: image/png
+
+Uri: https://zsh21uruuoil.wfolio.pro/assets/icons/arrow_right_white-b0b396c47eac4496b0ff49a7fe411ccab238e03d7db9c3555226e269f67b80c7.png
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\assets\icons\arrow_right_white-b0b396c47eac4496b0ff49a7fe411ccab238e03d7db9c3555226e269f67b80c7.png
+Content Type: image/png
+
+Uri: https://zsh21uruuoil.wfolio.pro/assets/icons/play-33940069783943735959b2c74669cd93fba86aea43be7debac62b59e58b87338.png
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\assets\icons\play-33940069783943735959b2c74669cd93fba86aea43be7debac62b59e58b87338.png
+Content Type: image/png
+
+Uri: https://zsh21uruuoil.wfolio.pro/avtivki
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\avtivki.html
+Content Type: text/html
+
+Uri: https://zsh21uruuoil.wfolio.pro/comments
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\comments.html
+Content Type: text/html
+
+Uri: https://zsh21uruuoil.wfolio.pro/contacts
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\contacts.html
+Content Type: text/html
+
+Uri: https://zsh21uruuoil.wfolio.pro/desktop/stylesheet/space-c3cdcdbd9d64fc1dc257d43863c80609964a9bef23d333be0087934b6302b2ed.css?theme_site_id=74111
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\desktop\stylesheet\space-c3cdcdbd9d64fc1dc257d43863c80609964a9bef23d333be0087934b6302b2ed.css
+Content Type: text/css
+
+Uri: https://zsh21uruuoil.wfolio.pro/favicon.ico
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://zsh21uruuoil.wfolio.pro/portreti
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\portreti.html
+Content Type: text/html
+
+Uri: https://zsh21uruuoil.wfolio.pro/portreti-1
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\portreti-1.html
+Content Type: text/html
+
+Uri: https://zsh21uruuoil.wfolio.pro/services
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\services.html
+Content Type: text/html
+
+Uri: https://zsh21uruuoil.wfolio.pro/site.webmanifest
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\site.webmanifest
+Content Type: application/octet-stream
+
+Uri: https://zsh21uruuoil.wfolio.pro/street-fotografiya
+File Name: F:\сайт\zsh21uruuoil.wfolio.pro\street-fotografiya.html
+Content Type: text/html
+

@@ -1,0 +1,15 @@
+
+{
+  "icons": [
+    {
+      "src": "/assets/favicons/favicon_192-f601715af5584d1c7eae1774a2a26e51df59b2c30ac8153a9c40ea2e065b245e.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/favicons/favicon_512-b2e33c10fff811160436fd62bebd5383c7819517ff14148eaab723760d14d099.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
